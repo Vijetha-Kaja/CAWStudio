@@ -3,7 +3,6 @@ import {
   When,
   Then,
   And,
-  Before,
 } from "cypress-cucumber-preprocessor/steps";
 
 before(() => {
